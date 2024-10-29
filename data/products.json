@@ -1,0 +1,13 @@
+[
+    { "id": "1", "nome": "Arroz", "foto": "https://c.pxhere.com/images/d1/20/236708f14ee272c54acacc71858f-1595000.jpg!d", "preco": 5.99 },
+    { "id": "2", "nome": "Feijão", "foto": "https://c.pxhere.com/photos/cb/3e/beans_black_background_food_organic_natural_kitchen_texture-721433.jpg!d", "preco": 4.99 },
+    { "id": "3", "nome": "Macarrão", "foto": "https://c.pxhere.com/photos/91/4c/noodles_tagliatelle_raw_colorful_food_carbohydrates-520086.jpg!d", "preco": 2.99 },
+    { "id": "4", "nome": "Açúcar", "foto": "https://c.pxhere.com/photos/07/d6/sieve_icing_sugar_kitchen_help_metal_household_goods_powdered_sugar_sieve_close-813183.jpg!d", "preco": 3.50 },
+    { "id": "5", "nome": "Sal", "foto": "https://c.pxhere.com/photos/62/a5/salt_nature_eat_food_spice-1135962.jpg!d", "preco": 1.20 },
+    { "id": "6", "nome": "Óleo", "foto": "https://c.pxhere.com/photos/ca/d2/olive_oil_salad_dressing_cooking_olive_healthy_vegetarian_food_diet-853081.jpg!d", "preco": 6.80 },
+    { "id": "7", "nome": "Leite", "foto": "https://c.pxhere.com/photos/e4/bd/milk_dairy_products_pitcher_bottle_rustic_useful_white_healthy_eating-1362675.jpg!d", "preco": 4.25 },
+    { "id": "8", "nome": "Pão", "foto": "https://c.pxhere.com/photos/36/df/bread_farmer's_bread_crispy_baked_food-1221989.jpg!d", "preco": 2.50 },
+    { "id": "9", "nome": "Café", "foto": "https://c.pxhere.com/photos/a8/c3/coffee_bean_closeup_texture_natural_fresh-3030.jpg!d", "preco": 9.99 },
+    { "id": "10", "nome": "Biscoito", "foto": "https://c.pxhere.com/photos/ad/1a/pastries_bake_sweet_brownie_icing_sugar_baked_bake_your_own_small_cakes-878959.jpg!d", "preco": 3.10 }
+  ]
+  
